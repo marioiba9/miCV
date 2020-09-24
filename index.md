@@ -22,11 +22,20 @@ Aquí podrás encontrar la información más relevante acerca de mi persona.
 
  
 
-# Historial laboral
+
+
+## HISTORIAL LABORAL
 
  - **Actualización Y Mantenimiento De Contenidos Web, Navarraweb Marketing S.L.**- *Pamplona, Navarra* 06/2018 - 09/2018
  
  - **Árbitro De Fútbol Federación Navarra De Fútbol** - *Pamplona,Navarra 09/2019-Actual* Actualmente estoy arbitrando partidos federados de fútbol base mediante la Federación Navarra de Fútbol y el Comité Técnico de Árbitros
+
+
+
+
+
+
+
 ## Aptitudes
 
  - Aprendo muy rápido y fácil.
@@ -42,8 +51,8 @@ federado), pádel, tenis, esquí, golf o baloncesto.
  - Conocimiento en videojuegos y sistemas operativos Android e IOS
 
 
-## Información de contacto
 
+## Información de contacto
  - **E-mail**: ibanezm09@gmail.com
  - **Teléfono**: 689020671
  - **Dirección**: C/Mendikale, 24, 4ºD, Ansoain 31013, Navarra, España.
