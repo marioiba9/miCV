@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# ¡Bienvenido a mi Currículum Vitae en GitHub!
 
-You can use the [editor on GitHub](https://github.com/marioiba9/miCV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aquí podrás encontrar la información más relevante acerca de mi persona.
+## Datos personales
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - **Nombre y apellidos:** Mario Ibañez Iglesias
+ - **Fecha de nacimiento:** 11/06/2002
+ 
 
-### Markdown
+## Formación e idiomas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - [ ] **Título de la ESO** Iñaki Ochoa de Olza BHI, 2014-2018
+ - [ ] **Título de Bachillerato** Eunate BHI, 2018-2020
 
-```markdown
-Syntax highlighted code block
+> IDIOMAS:
+> 
+ - [ ] **Castellano:** Lengua materna
+ - [ ] **Euskera:** Nivel alto (B2)
+ - [ ] **Inglés:** Nivel medio (B1)
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+# Historial laboral
 
-**Bold** and _Italic_ and `Code` text
+ - **Actualización Y Mantenimiento De Contenidos Web Navarraweb
+Marketing S.L.** - *Pamplona, Navarra*
+06/2018 - 09/2018
+**Árbitro De Fútbol Federación Navarra de Fútbol** - *Pamplona, Navarra*
+09/2019 - Actual
+Actualmente estoy arbitrando partidos federados de fútbol base mediante la
+Federación Navarra de Fútbol y el Comité Técnico de Árbitros.
 
-[Link](url) and ![Image](src)
-```
+## Aptitudes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ - Aprendo muy rápido y fácil.
+ - Trabajador, responsable, sociable y puntual.
+ -  Trabajador, responsable, sociable y puntual.
+ - Dominio de Microsoft Office (Word, Power Point, Excel, etc.)
+ -  Amplio conocimiento en deportes: fútbol (actualmente jugando en un equipo
+federado), pádel, tenis, esquí, golf o baloncesto.
+ - Amplio conocimiento en deportes: fútbol (actualmente jugando en un equipo
+federado), pádel, tenis, esquí, golf o baloncesto.
+ - Capacidad de adaptarse a cualquier puesto o tarea.
+ - Conocimientos en edición de vídeo y audio (Sony Vegas).
+ - Conocimiento en videojuegos y sistemas operativos Android e IOS
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioiba9/miCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Información de contacto
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - **E-mail**: ibanezm09@gmail.com
+ - **Teléfono**: 689020671
+ - **Dirección**: C/Mendikale, 24, 4ºD, Ansoain 31013, Navarra, España.
