@@ -27,10 +27,9 @@ Aquí podrás encontrar la información más relevante acerca de mi persona.
  - **Actualización Y Mantenimiento De Contenidos Web Navarraweb
 Marketing S.L.** - *Pamplona, Navarra*
 06/2018 - 09/2018
-**Árbitro De Fútbol Federación Navarra de Fútbol** - *Pamplona, Navarra*
-09/2019 - Actual
-Actualmente estoy arbitrando partidos federados de fútbol base mediante la
-Federación Navarra de Fútbol y el Comité Técnico de Árbitros.
+ - **Árbitro De Fútbol Federación Navarra de Fútbol** - *Pamplona, Navarra* 09/2019 - Actual Actualmente estoy arbitrando partidos
+   federados de fútbol base mediante la Federación Navarra de Fútbol y
+   el Comité Técnico de Árbitros.
 
 ## Aptitudes
 
