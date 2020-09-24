@@ -36,7 +36,7 @@ Aquí podrás encontrar la información más relevante acerca de mi persona.
 
 
 
-## Aptitudes
+# Aptitudes
 
  - Aprendo muy rápido y fácil.
  - Trabajador, responsable, sociable y puntual.
@@ -56,3 +56,4 @@ federado), pádel, tenis, esquí, golf o baloncesto.
  - **E-mail**: ibanezm09@gmail.com
  - **Teléfono**: 689020671
  - **Dirección**: C/Mendikale, 24, 4ºD, Ansoain 31013, Navarra, España.
+ 
