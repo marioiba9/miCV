@@ -24,7 +24,7 @@ Aquí podrás encontrar la información más relevante acerca de mi persona.
 
 
 
-## Historial laboral y aptitudes
+# Historial laboral y aptitudes
 
  - **Actualización Y Mantenimiento De Contenidos Web, Navarraweb Marketing S.L.**- *Pamplona, Navarra* 06/2018 - 09/2018
  
